@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.3",
+  "latestVersion": "1.0.0.1",
   "releaseDate": "2025-09-15",
-  "changelog": "Fixed login bug\nImproved performance on mobile",
-  "downloadUrl": "https://github.com/hello23241/fnuy-incremental-game/releases/download/v1/fnuy.exe"
+  "changelog": "Added Myrtle\nThe game auto updates because I am cool",
+  "downloadUrl": "https://github.com/hello23241/fnuy-incremental-game/releases/download/1.0.0.1/1.0.0.1.rar"
 }
