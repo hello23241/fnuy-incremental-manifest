@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.0.1",
-  "releaseDate": "2025-09-15",
-  "changelog": "Added Myrtle\nThe game auto updates because I am cool",
-  "downloadUrl": "https://github.com/hello23241/fnuy-incremental-game/releases/download/1.0.0.1/1.0.0.1.rar"
+  "latestVersion": "1.1.0",
+  "releaseDate": "2025-09-16",
+  "changelog": "Implemented auto updating\nChanged most UI elements\nExtended ascension a little bit\nRebalanced scaling so that progression relies on the daily reward LOL\nDaily rewards will be added in the next minor patch",
+  "downloadUrl": "https://github.com/hello23241/fnuy-incremental-game/releases/download/v1.1.0/net8.0-windows.rar"
 }
