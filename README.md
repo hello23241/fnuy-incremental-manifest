@@ -1,2 +1,2 @@
 # fnuy-incremental-manifest
-updates fnuy-incremental automatically.
+updates fnuy-incremental manually.
