@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.1.1",
-  "releaseDate": "2025-09-16",
-  "changelog": "Fixed versioning check",
-  "downloadUrl": "https://github.com/hello23241/fnuy-incremental-game/releases/download/v1.1.1/net8.0-windows.rar"
+  "latestVersion": "1.1.2",
+  "releaseDate": "2025-09-22",
+  "changelog": "Minor bug fixes, prepare for a major ascension rework.",
+  "downloadUrl": "https://github.com/hello23241/fnuy-incremental-game/releases/download/v1.1.2/1.1.2.rar"
 }
